@@ -1,0 +1,18 @@
+[
+  {
+    "image": "image/cat.jpg",
+    "caption": "Một con mèo màu vàng đang nằm ngủ trên giường."
+  },
+  {
+    "image": "image/dogs.jpg",
+    "caption": "Những chú chó màu trắng đang chạy trên bãi cỏ xanh."
+  },
+  {
+    "image": "image/phone.png",
+    "caption": "Một chiếc điện thoại màu đen."
+  },
+  {
+    "image": "image/persons.jpg",
+    "caption": "Nhóm người đang họp bàn cùng nhau."
+  }
+]
